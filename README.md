@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Artificial Intelligence, and building creative tech projects  
 - 🌱 I’m currently learning It, and how to use GitHub  
 - 💞️  I’m looking to collaborate on beginner-friendly open source web projects 
-- 📫 How to reach me ...
+- 📫 How to reach me lamaeid313@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
